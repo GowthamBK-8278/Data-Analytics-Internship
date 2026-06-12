@@ -1,0 +1,54 @@
+//Excel Basics,,
+1.TABLE CREATION,,
+Name,Age,Marks
+Ravi,20,85
+kumar,21,90
+Priya,20,88
+2.SUM,,
+Name,Age,Marks
+Ravi,20,85
+kumar,21,90
+Priya,20,88
+,SUM=,263
+3.AVERAGE,,
+Name,Age,Marks
+Ravi,20,85
+kumar,21,90
+Priya,20,88
+,AVERAGE=,87.66666667
+4.COUNT,,
+Name,Age,Marks
+Ravi,20,85
+kumar,21,90
+Priya,20,88
+,COUNT=,3
+5.IF CONDITION,,
+Name,Age,Marks
+Ravi,20,85
+kumar,21,90
+Priya,20,70
+output:,,
+,IF CONDITION=,Pass
+,,Pass
+,,Fail
+6.VLOOKUP,,
+ID,Name,
+101,Ravi,
+102,kumar,
+103,priya,
+output:,,
+ID,Name,
+102,kumar,
+,,
+7.PIVOT TAPLE,,
+Department,Salary,
+IT,30000,
+IT,35000,
+HR,25000,
+HR,28000,
+IT,40000,
+,,
+Row Labels,Sum of Salary,
+HR,53000,
+IT,105000,
+Grand Total,158000,
