@@ -1,0 +1,7 @@
+# Task 19 - Outliers Detection
+
+Objective:
+Identify unusual values in the dataset.
+
+Result:
+Checked Exam Score distribution and detected outliers.

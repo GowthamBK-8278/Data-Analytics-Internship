@@ -1,0 +1,12 @@
+# Task 17 - Data Cleaning
+
+Objective:
+Improve dataset quality.
+
+Tasks Performed:
+- Checked duplicates
+- Verified missing values
+- Validated data consistency
+
+Result:
+Cleaned dataset ready for analysis.

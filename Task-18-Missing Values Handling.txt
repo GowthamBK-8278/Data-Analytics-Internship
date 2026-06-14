@@ -1,0 +1,7 @@
+# Task 18 - Missing Values Handling
+
+Objective:
+Identify missing values in dataset.
+
+Result:
+Checked dataset and identified blank cells.
