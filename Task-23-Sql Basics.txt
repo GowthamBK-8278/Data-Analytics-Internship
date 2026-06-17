@@ -1,0 +1,28 @@
+# Task 01 - SQL Basics
+
+## Objective
+Learn basic SQL concepts and commands.
+
+## Concepts Learned
+- Database
+- Table
+- Row
+- Column
+- SQL
+
+## Queries Executed
+
+```sql
+SHOW DATABASES;
+```
+
+```sql
+SELECT NOW();
+```
+
+```sql
+SELECT VERSION();
+```
+
+## Outcome
+Successfully understood SQL basics and executed simple SQL commands.
