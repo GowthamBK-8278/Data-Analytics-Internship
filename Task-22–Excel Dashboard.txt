@@ -1,0 +1,110 @@
+# Task 22 - Excel Dashboard
+
+## Objective
+
+To create an interactive Excel dashboard for analyzing student performance data using charts, pivot tables, slicers, and KPIs.
+
+## Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+
+## Dataset Used
+
+Student Performance Dataset containing:
+
+- Student ID
+- Gender
+- Attendance
+- Hours Studied
+- Previous Scores
+- Exam Score
+
+## Steps Performed
+
+### 1. Data Preparation
+
+- Verified data quality
+- Removed duplicate records
+- Checked missing values
+- Formatted columns correctly
+
+### 2. Created Pivot Tables
+
+Generated pivot tables to analyze:
+
+- Average Exam Score by Gender
+- Attendance Analysis
+- Study Hours Analysis
+- Student Performance Distribution
+
+### 3. Created Charts
+
+Added the following visualizations:
+
+- Bar Chart
+- Pie Chart
+- Column Chart
+- Line Chart
+
+### 4. Added Slicers
+
+Created slicers for:
+
+- Gender
+- Attendance Category
+- Study Hours
+
+### 5. Dashboard Design
+
+Designed a single-page dashboard containing:
+
+- Total Students KPI
+- Average Exam Score KPI
+- Highest Score KPI
+- Attendance Analysis
+- Gender-wise Performance Analysis
+
+## Key Insights
+
+- Students with higher attendance generally achieved better scores.
+- Increased study hours positively influenced exam performance.
+- Gender-wise performance differences were minimal.
+- Attendance showed a strong relationship with academic success.
+
+## Dashboard Components
+
+### KPI Cards
+
+- Total Students
+- Average Score
+- Maximum Score
+- Minimum Score
+
+### Visualizations
+
+- Student Performance Distribution
+- Gender-wise Score Analysis
+- Attendance vs Exam Score
+- Study Hours vs Exam Score
+
+## Outcome
+
+Successfully created an interactive Excel dashboard that provides meaningful insights into student performance and supports data-driven decision making.
+
+## Skills Learned
+
+- Excel Dashboard Design
+- Pivot Tables
+- Pivot Charts
+- Data Visualization
+- Slicers and Filters
+- KPI Creation
+- Data Analysis
+
+## Conclusion
+
+This project demonstrates how Excel can be used as a powerful business intelligence tool to analyze and visualize educational data effectively.

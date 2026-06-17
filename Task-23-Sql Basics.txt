@@ -1,4 +1,4 @@
-# Task 01 - SQL Basics
+# Task- 23 - Sql Basics
 
 ## Objective
 Learn basic SQL concepts and commands.

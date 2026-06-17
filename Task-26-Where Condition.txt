@@ -1,0 +1,26 @@
+# Task-26- WHERE Conditions
+
+## Objective
+To learn how to filter records using WHERE conditions.
+
+## Program
+
+```sql
+SELECT * FROM students
+WHERE marks > 80;
+
+SELECT * FROM students
+WHERE name='Arun';
+```
+
+## Explanation
+
+- WHERE filters records.
+- marks > 80 returns high-scoring students.
+- name='Arun' returns a specific student record.
+
+## Output
+Displayed filtered records.
+
+## Outcome
+Learned how to retrieve specific data using conditions.
