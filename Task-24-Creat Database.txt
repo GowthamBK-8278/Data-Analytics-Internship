@@ -1,0 +1,25 @@
+# Task 02 - Create Database
+
+## Objective
+
+Learn how to create and use a database in MySQL.
+
+## Commands Executed
+
+```sql
+SHOW DATABASES;
+
+CREATE DATABASE student_db;
+
+USE student_db;
+
+SELECT DATABASE();
+```
+
+## Output
+
+Successfully created a database named student_db and selected it for use.
+
+## Outcome
+
+Learned how to create, select and verify databases using MySQL.
